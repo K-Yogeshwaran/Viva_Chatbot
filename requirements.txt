@@ -1,5 +1,6 @@
 langchain
 langchain-core
+langchain-community
 streamlit
 openai  # If using OpenAI models
 ollama  # If using Ollama
